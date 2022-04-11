@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 *****************************************
-Practice with Spring java backend and React.js frontend mysql database.
+Practice with Spring java backend and React.js frontend mysql database, This is the Frontend to my backend Employee Management System.
 *****************************************
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
