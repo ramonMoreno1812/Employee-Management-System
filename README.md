@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+*****************************************
+Practice with Spring java backend and React.js frontend mysql database.
+*****************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
